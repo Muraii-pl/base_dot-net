@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "WKBw5uF46asNCzGL7JK/HeT2MjZ4gcWFqUyONS7Dc98=",
+  "Source": "BaseAPP.Infrastructure",
+  "BasePath": "_content/BaseAPP.Infrastructure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/muraii/Private/dot-net/BaseAPP/BaseApp.Domain/BaseApp.Domain.csproj",
+      "Version": 2,
+      "Source": "BaseApp.Domain",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
